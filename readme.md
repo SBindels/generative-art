@@ -30,6 +30,9 @@
 Deze week heb ik vooral inspiratie onderzoek gedaan naar generative art. Ik vond zelf de Noise Planets heel gaaf met de verschillende kleuren. 
 bron: Noise Planets. (2021, 9 januari). Noise Planets. https://avinayak.github.io/art/2021/01/09/noise-planets.html
 
+![image](https://user-images.githubusercontent.com/60451829/114768634-71204800-9d69-11eb-9d9c-3b529d942ee8.png)
+
+
 Inspiratie van p5 showcase:
 
 En to Oto: 
