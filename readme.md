@@ -7,7 +7,7 @@
 * **Klas:** `vid-1`
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood/zwart`
+* **Startniveau:** `blauw/rood'
 
 ## Concept
 
