@@ -48,6 +48,7 @@ https://showcase.p5js.org/#/2020-Visual/project-25/
 
 https://samantharuizdesign.com/audio-visualizer/
 
+![image](https://user-images.githubusercontent.com/60451829/114768811-a9278b00-9d69-11eb-936f-5fca8a38193c.png)
 
 Daarnaast ben ik al gaan kijken naar p5.js via Daniel Shiffman The Coding Train. 
 bron: The Coding Train. (2021, 8 mei). Code! Programming with p5.js [Video]. Code! Programming with p5.js by Daniel Shiffman. https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
