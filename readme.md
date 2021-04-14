@@ -33,6 +33,8 @@ bron: Noise Planets. (2021, 9 januari). Noise Planets. https://avinayak.github.i
 ![image](https://user-images.githubusercontent.com/60451829/114768634-71204800-9d69-11eb-9d9c-3b529d942ee8.png)
 
 
+https://user-images.githubusercontent.com/60451829/114769163-20f5b580-9d6a-11eb-813c-be785751a89c.mp4
+
 Inspiratie van p5 showcase:
 
 En to Oto: 
