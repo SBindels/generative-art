@@ -59,6 +59,10 @@ M'n volgende stappen zijn om door te gaan met de playlist van The Coding Train.
 
 Link naar mijn p5.js web editor: https://editor.p5js.org/Sbindels/sketches/svuaKXXQZ
 
+Webinar gekeken/meegedaan van Github Summit: 
+GitHub. (2020, 8 mei). Creative Coding in p5.js - GitHub Satellite 2020 [Video]. YouTube. https://www.youtube.com/watch?v=sRLWIAPaiRI
+
+mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 
 ### Week-2
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
