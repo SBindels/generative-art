@@ -7,7 +7,7 @@
 * **Klas:** `vid-1`
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood'
+* **Startniveau:** `blauw'
 
 ## Concept
 
@@ -73,6 +73,7 @@ mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
+* The Coding Train. (2016, 17 oktober). 17.8: Microphone Input - p5.js Sound Tutorial. YouTube. https://www.youtube.com/watch?v=q2IDNkUws-A
+* The Coding Train. (2019, 25 februari). Coding Challenge #136.1: Polar Perlin Noise Loops. YouTube. https://www.youtube.com/watch?v=ZI1dmHv3MeM&t=803s
+* Shiffman, D. (2021, 8 maart). Code! Programming with p5.js. YouTube. https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
+* Colorful Coding. (2020, 28 oktober). Sine wave structures in p5.js | Coding Project #1. YouTube. https://www.youtube.com/watch?v=vmhRlDyPHMQ
