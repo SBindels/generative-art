@@ -9,8 +9,8 @@ function setup() {
 function draw() {
   background(30);
 
-  //rotateX(90);
-  //rotateZ(frameCount);
+  rotateX(frameCount / 2);
+  rotateZ(frameCount / 4);
   noFill();
   stroke(255);
 
@@ -28,9 +28,8 @@ function draw() {
       let noiseMax = slider.value();
       for (var j = 0; j < 360; j += 10) {
         
-        let xoff = map(cos(j+phase),-1,1,0,noiseMax);
-        let yoff = map(sin(j),-1,1,0,noiseMax);
-        // var rad = i * 10;
+        let xoff = map(cos(j+phase),-1,1,0,10);
+        let yoff = map(sin(j),-1,1,0,10);
         var rad = map(noise(xoff,yoff), 0, 1, 50, 200);
         var x = rad * cos(j);
         var y = rad * sin(j);
