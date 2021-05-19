@@ -7,18 +7,19 @@ function setup() {
   mic = new p5.AudioIn();
   mic.start();
   //slider = createSlider(0,10,0)
+  
 }
 
 function draw() {
+  
   background(30);
-
   rotateY(frameCount / 2);
   rotateZ(frameCount /4);
   noFill();
   stroke(255);
   
   var vol = mic.getLevel();
-  console.log(vol);
+  //console.log(vol);
 
   for (var i = 0; i < 20; i++) {
     var r = map(sin(frameCount / 2), -1, 1, 0, 255);
@@ -51,7 +52,7 @@ function draw() {
         var rad = i * 5;
         var x = rad * cos(j);
         var y = rad * sin(j);
-        var z = sin(frameCount * 4 + i * 10) * 50;
+        var z = sin(frameCount * 4 + i * vol*1000) * vol*1000;
 
         vertex(x, y, z);
       }
