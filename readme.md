@@ -26,12 +26,9 @@ voorbeeld van een perlin noise line:
 ![image](https://user-images.githubusercontent.com/60451829/118874100-cf9d9080-b8ea-11eb-9002-300146fc2e22.png)
 
 
+
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
 
-## Voortang
-
-`Schrijf hier een klein logboekje met je voortgang per week.`
 
 ### Week-1
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
@@ -73,11 +70,6 @@ GitHub. (2020, 8 mei). Creative Coding in p5.js - GitHub Satellite 2020 [Video].
 
 mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 
-### Week-2
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
-
-### Week-3
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
 
 ## Bronnenlijst
@@ -88,4 +80,3 @@ mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 * Colorful Coding. (2020, 28 oktober). Sine wave structures in p5.js | Coding Project #1. YouTube. https://www.youtube.com/watch?v=vmhRlDyPHMQ
 * p5js. (z.d.). reference | p5.js. P5.Js. Geraadpleegd op 19 mei 2021, van https://p5js.org/reference/
 * The Coding Train. (2015, 27 juli). I.5: Perlin Noise - The Nature of Code. YouTube. https://www.youtube.com/watch?v=8ZEMLCnn8v0
-* 
