@@ -13,6 +13,12 @@
 
 Zelf hou ik erg van muziek en vooral de elektronische kant dus techno. De duistere kant van van techno is wat mij het meeste aanspreek. Eigenschappen zoals distortion binnen tracks en harde kicks. Mijn concept heeft dan ook distortion door middel van noise of Perlin Noise algoritme. Als input kan de user zijn microfoon gebruik voor interactie binnen mijn concept.
 
+
+https://user-images.githubusercontent.com/60451829/118878454-dda1e000-b8ef-11eb-98ed-c911b48cd0f5.mov
+
+
+
+
 ## Features
 
 ### Interactivity: 
