@@ -21,6 +21,9 @@ In mijn concept gebruik in de p5.sound library hiermee kan ik de microfoon van e
 ### Generativity: 
 Perlin Noise voegt randomness toe aan de code maar op een natuurlijke manier. In tegenstelling van de random functie in p5. Met perlin noise worden er random nummer gekozen die dicht bij elkaar liggen waardoor het dus meer natuurlijk overkomt.  
 
+voorbeeld van een perlin noise line:
+![image](https://user-images.githubusercontent.com/60451829/118874100-cf9d9080-b8ea-11eb-9002-300146fc2e22.png)
+
 
 ## Onderzoek & inspiratie
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
