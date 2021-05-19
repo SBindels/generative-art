@@ -11,11 +11,16 @@
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
+Zelf hou ik erg van muziek en vooral de elektronische kant dus techno. De duistere kant van van techno is wat mij het meeste aanspreek. Eigenschappen zoals distortion binnen tracks en harde kicks. Mijn concept heeft dan ook distortion door middel van noise of Perlin Noise algoritme. Als input kan de user zijn microfoon gebruik voor interactie binnen mijn concept.
 
 ## Features
 
-`Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
+### Interactivity: 
+In mijn concept gebruik in de p5.sound library hiermee kan ik de microfoon van een laptop gebruiken om interacties mogelijk te maken. Binnen de p5.sound library pak ik de AudioIn om geluid van een input source te krijgen. In de code heb ik een aantal aanpassingen gedaan in de parameters die de volume van de microfoon afmeten. Hierdoor verandert de vorm van de z-as in de sinus. 
+
+### Generativity: 
+Perlin Noise voegt randomness toe aan de code maar op een natuurlijke manier. In tegenstelling van de random functie in p5. Met perlin noise worden er random nummer gekozen die dicht bij elkaar liggen waardoor het dus meer natuurlijk overkomt.  
+
 
 ## Onderzoek & inspiratie
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
@@ -77,3 +82,6 @@ mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 * The Coding Train. (2019, 25 februari). Coding Challenge #136.1: Polar Perlin Noise Loops. YouTube. https://www.youtube.com/watch?v=ZI1dmHv3MeM&t=803s
 * Shiffman, D. (2021, 8 maart). Code! Programming with p5.js. YouTube. https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 * Colorful Coding. (2020, 28 oktober). Sine wave structures in p5.js | Coding Project #1. YouTube. https://www.youtube.com/watch?v=vmhRlDyPHMQ
+* p5js. (z.d.). reference | p5.js. P5.Js. Geraadpleegd op 19 mei 2021, van https://p5js.org/reference/
+* The Coding Train. (2015, 27 juli). I.5: Perlin Noise - The Nature of Code. YouTube. https://www.youtube.com/watch?v=8ZEMLCnn8v0
+* 
