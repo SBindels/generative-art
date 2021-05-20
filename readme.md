@@ -24,6 +24,27 @@ https://user-images.githubusercontent.com/60451829/118878454-dda1e000-b8ef-11eb-
 ### Interactivity: 
 In mijn concept gebruik in de p5.sound library hiermee kan ik de microfoon van een laptop gebruiken om interacties mogelijk te maken. Binnen de p5.sound library pak ik de AudioIn om geluid van een input source te krijgen. In de code heb ik een aantal aanpassingen gedaan in de parameters die de volume van de microfoon afmeten. Hierdoor verandert de vorm van de z-as in de sinus. 
 
+Zoals hieronder te zien asign ik de library van p5.sound aan mijn mic variable. 
+Met de start() methode is de mic klaar voor een audio input.
+
+```
+
+function setup() {
+  createCanvas(windowWidth, windowHeight, WEBGL);
+  angleMode(DEGREES);
+  mic = new p5.AudioIn();
+  mic.start();
+}
+
+```
+In mijn tweede shape heb ik een aantal parameters veranderd naar de input van de mic. 
+Door de vermenigvuldigen van * 1000 maak ik het effect een stuk groter.
+
+```
+let z = sin(frameCount * 4 + i * vol*1000) * vol*1000;
+
+```
+
 
 
 https://user-images.githubusercontent.com/60451829/118879005-805a5e80-b8f0-11eb-8b43-2692493df06a.mov
