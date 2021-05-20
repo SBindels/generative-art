@@ -82,7 +82,7 @@ GitHub. (2020, 8 mei). Creative Coding in p5.js - GitHub Satellite 2020 [Video].
 
 mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 
-## Kleurgebruikt: 
+## Kleurgebruik: 
 
 Binnen mijn artwork wilde ik toch kleuren gebruiken ook al denk je snel aan zwart bij techno. Voor de kleuren maak het gebruik van de map() functie in p5. Ik heb 3 variabelen voor de RGB gedeclareerd en hieruit komt steeds een random waarden uit. Die doe ik met map().
 Bij de map() functie verandert er het nummer of value naar een range tussen de -1 en 255.
