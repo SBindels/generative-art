@@ -82,9 +82,25 @@ GitHub. (2020, 8 mei). Creative Coding in p5.js - GitHub Satellite 2020 [Video].
 
 mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 
+## Kleurgebruikt: 
+
+Binnen mijn artwork wilde ik toch kleuren gebruiken ook al denk je snel aan zwart bij techno. Voor de kleuren maak het gebruik van de map() functie in p5. Ik heb 3 variabelen voor de RGB gedeclareerd en hieruit komt steeds een random waarden uit. Die doe ik met map().
+Bij de map() functie verandert er het nummer of value naar een range tussen de -1 en 255.
+
+```
+  for (var i = 0; i < 20; i++) {
+    var r = map(sin(frameCount / 2), -1, 1, 0, 255);
+    var g = map(i, 0, 20, 0, 255);
+    var b = map(cos(frameCount), -1, 1, 255, 0);
+
+    stroke(r, g, b);
+    
+```
 
 
-## Bronnenlijst
+## Bronnenlijst 
+
+Dit zijn de bronnen die mij erg hebben geholpen tijdens het proces:
 
 * The Coding Train. (2016, 17 oktober). 17.8: Microphone Input - p5.js Sound Tutorial. YouTube. https://www.youtube.com/watch?v=q2IDNkUws-A
 * The Coding Train. (2019, 25 februari). Coding Challenge #136.1: Polar Perlin Noise Loops. YouTube. https://www.youtube.com/watch?v=ZI1dmHv3MeM&t=803s
@@ -92,3 +108,4 @@ mijn editor: https://editor.p5js.org/Sbindels/sketches/9ZHSI11o0
 * Colorful Coding. (2020, 28 oktober). Sine wave structures in p5.js | Coding Project #1. YouTube. https://www.youtube.com/watch?v=vmhRlDyPHMQ
 * p5js. (z.d.). reference | p5.js. P5.Js. Geraadpleegd op 19 mei 2021, van https://p5js.org/reference/
 * The Coding Train. (2015, 27 juli). I.5: Perlin Noise - The Nature of Code. YouTube. https://www.youtube.com/watch?v=8ZEMLCnn8v0
+* GeeksforGeeks. (2021, 17 februari). p5.js map() Function. https://www.geeksforgeeks.org/p5-js-map-function/
